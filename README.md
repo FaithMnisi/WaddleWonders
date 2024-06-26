@@ -1,13 +1,17 @@
 OVERVIEW
+
 This project involves an Exploratory Data Analysis (EDA) on a penguin dataset, focusing on biometric measurements and categorical variables such as species, island, and sex.
 
 DATASET
+
 Features: Culmen length & depth, flipper length, body mass, species, island, sex.
 
 ANALYSIS
+
 Goals: Explore correlations and distributions of biometric measurements across species, islands and sexes.
 
 Key Findings
+
 - Culmen length and culmen depth have a weak negative correlation of -0.23.
 - Culmen length and flipper length have a strong positive correlation of 0.65.
 - Culmen length and body mass have a strong positive correlation of 0.59.
@@ -21,9 +25,11 @@ Key Findings
 - Males typically exhibit sexual dimorphism as shown by greater biometric measurements compared to females.
 
 METHODOLOGY
+
 - Tools: Python, Pandas, Numpy, Seaborn, Matplotlib.
 - Techniques: Data cleaning, correlation analysis, and visualization
 
 RESULTS
+
 - Visualized distributions and correlations between features.
 - Highlighted the relationship between biometric measurements and categorical variables
